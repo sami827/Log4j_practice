@@ -1,0 +1,3 @@
+22:58:43.690 DEBUG LoggingConsole -Debug Message Logged
+22:58:43.693 ERROR LoggingConsole -Error Message Logged
+22:58:43.693 FATAL LoggingConsole -Fatal Message Debugged
