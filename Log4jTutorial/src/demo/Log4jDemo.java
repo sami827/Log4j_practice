@@ -9,7 +9,7 @@ public class Log4jDemo {
 	
 	public static void main(String[] args) {
 		log.debug("Debug Message Logged");
-		log.error("Error Message Logged");
+		log.error("error Message Logged");
 				
 	}
 
